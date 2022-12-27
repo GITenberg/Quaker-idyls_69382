@@ -1,0 +1,34 @@
+_repo: Quaker-idyls_69382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gardner, Sarah M. H.
+    alias: Gardner, S. M. H. (Sarah M. H.)
+    gutenberg_agent_id: '55180'
+    url: http://www.gutenberg.org/2009/agents/55180
+description: ''
+gutenberg_issued: '2022-11-18'
+identifiers:
+  gutenberg: '69382'
+  lccn: 07000294
+language: en
+pgterms:marc904: https://archive.org/details/quakeridyls00gardiala/page/n5/mode/2up
+pgterms:marc905: 20220821130000gardner
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Henry Holt and Company,1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Quakers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Twelfth Street meeting -- A Quaker wedding -- Two gentlewomen --
+  Our little neighbors -- Pamelia Tewksbury's courtship -- Some ante-bellum letters
+  from a Quaker girl -- Uncle Joseph -- My grandame's secret.
+title: Quaker idyls
+url: http://www.gutenberg.org/ebooks/69382
